@@ -6,7 +6,7 @@ public class Test4 {
 		
 		String s ="jana";
 		
-		for(int i=0;i<100;i++) {
+		for(int i=0;i<50;i++) {
 			
 			System.out.println(s);
 		}
